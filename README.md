@@ -4,7 +4,7 @@
 
 ### PHP Laravel | Full Stack Developer
 
-Building scalable, high-performance web applications with **React**, **Next.js**, **TypeScript**, and **Node.js**.
+Building scalable, secure, and high-performance web applications using **React** , **Next.js** **PHP**, **Laravel**, **CodeIgniter**, **ASP.NET Core**, **C#**, **SQL Server**, **MySQL**, and RESTful APIs.
 
 [🌐 Portfolio]() •
 [💼 LinkedIn](https://www.linkedin.com/in/shakeel-ahamad-708828159) •
