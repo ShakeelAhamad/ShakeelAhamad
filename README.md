@@ -124,11 +124,47 @@ I'm currently expanding my expertise in **ASP.NET Core, C#, Entity Framework Cor
 
 ---
 
-### 📞 VoIP Communication Platform
+### 📊 iMedSource
 
-Real-time communication platform built using SIP.js and WebRTC.
+- Developed a healthcare marketing platform with secure user authentication and role-based access control.
+- Created webinar, user management, and content management features.
+- Integrated third-party APIs and increased application efficiency and responsiveness.
+- Collaborated with cross-functional teams to deliver scalable healthcare solutions.
 
-**Tech:** React • SIP.js • WebRTC • Redux
+**Tech:** PHP • Laravel • MySQL • Bootstrap • JavaScript • JQuery • DataTable
+
+---
+
+### 📊 ProMax Card
+
+- Developed a secure web application using PHP and Laravel.
+- Configured user authentication, role-based access control, and profile management.
+- Integrated third-party APIs to increase application efficiency and responsiveness.
+- Built responsive user interfaces using Bootstrap and JavaScript.
+
+**Tech:** PHP • Laravel • MySQL • Bootstrap • JavaScript • JQuery • DataTable
+
+---
+### 📊 Security Services Management System
+
+- Implemented multi-user authentication with role-based access control for Admin, Supervisor, and Security Guard users.
+- Developed an Attendance Management System to track employee check-in/check-out and shift records.
+- Built modules for employee management, client management, duty allocation, and shift scheduling.
+- Generated detailed attendance, payroll, and operational reports with filtering and export functionality.
+- Optimized database queries and application performance to ensure secure, scalable, and reliable operations.
+
+**Tech:** PHP • Laravel • MySQL • Bootstrap • JavaScript • JQuery • DataTable
+
+---
+### 📊 Khushal Clothing LLP
+
+- Developed and ERP Management System for Khushal Clothing LLP.
+- Designed a comprehensive Master Management module, including Group, Subgroup, Sub-Sub Group, Ledger, and multiple business master modules.
+- Built a secure multi-user authentication system with role-based access control and user permission management.
+- Generated comprehensive business reports, including ledger reports, transaction reports, account summaries, and master reports with Excel/PDF export.
+- Implemented email notifications and WhatsApp messaging for automated communication, document sharing, and business notifications.
+
+**Tech:** PHP • CodeIgniter 3 • MySQL • Bootstrap • JavaScript • JQuery • DataTable
 
 ---
 
@@ -144,10 +180,15 @@ Real-time communication platform built using SIP.js and WebRTC.
 
 I'm always open to discussing:
 
-- Frontend Engineering
+- Backend Engineering
 - Full Stack Development
-- React & Next.js
-- AI Applications
+- PHP, Laravel & CodeIgniter Development
+- RESTful API Design & Development
+- CRM & ERP Solutions
+- Node.js & Express.js
+- Database Design & Optimization (MySQL, MYSQL Server)
+- System Architecture & Performance Optimization
+- ASP.NET Core & Modern Backend Technologies
 - Open Source
 
 📧 **Email:** shakeel900560@gmail.com
