@@ -107,11 +107,7 @@ Real-time communication platform built using SIP.js and WebRTC.
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShakeelAhamad&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShakeelAhamad&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
