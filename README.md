@@ -9,7 +9,7 @@ Building scalable, secure, and high-performance web applications using **React**
 [🌐 Portfolio]() •
 [💼 LinkedIn](https://www.linkedin.com/in/shakeel-ahamad-708828159) •
 [📧 Email](mailto:shakeel900560@gmail.com) •
-[📄 Resume](YOUR_RESUME_LINK)
+[📄 Resume](https://drive.google.com/file/d/1sH05h6nHKn_SHgBV9cXapLQ2_0Pjg4QM/view?usp=sharing)
 
 </div>
 
