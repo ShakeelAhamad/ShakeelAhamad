@@ -25,7 +25,7 @@ I'm currently expanding my expertise in **ASP.NET Core, C#, Entity Framework Cor
 - 🚀 Developed ERP, CRM & E-commerce Applications
 - 🔐 Built Secure REST APIs & Authentication Systems
 - ☁️ Experience with AWS Deployment & Third-party APIs
-- 🌱 Currently Learning ASP.NET Core & Clean Architecture
+- 🌱 Currently Learning ASP.NET Core & Clean Architecture & React
 
 ---
 
