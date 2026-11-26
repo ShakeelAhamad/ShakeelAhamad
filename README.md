@@ -167,6 +167,21 @@ I'm currently expanding my expertise in **ASP.NET Core, C#, Entity Framework Cor
 **Tech:** PHP • CodeIgniter 3 • MySQL • Bootstrap • JavaScript • JQuery • DataTable
 
 ---
+# DentalCare Management System
+
+DentalCare is a dental clinic management application with a React frontend that communicates with an ASP.NET API. It provides separate login experiences and dashboards for Admin, Dentist, and Patient users, with role-based access to each user's features and information.
+
+- **Admin:** Manage dentists, patients, appointments, and dental services from the administration dashboard.
+- **Dentist:** View and manage appointments, schedules, patient details, and treatment records from the dentist dashboard.
+- **Patient:** Register and log in, book appointments, and view personal details and appointment information from the patient dashboard.
+- **Clinic website:** Browse clinic information, services, and doctors, and contact the clinic.
+- Integrated frontend API requests and protected routes for role-specific, authenticated workflows.
+
+**Tech:** React • JavaScript • ASP.NET API • Tailwind CSS • React Router • Axios • Vite
+
+**Key packages:** `react`, `react-dom`, `react-router-dom`, `axios`, `tailwindcss`, `@tailwindcss/vite`, `lucide-react`, `react-datepicker`, `react-hot-toast`
+
+------
 
 ## 📈 GitHub Stats
 
